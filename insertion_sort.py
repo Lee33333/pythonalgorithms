@@ -19,3 +19,10 @@ def insertion_sort(array):
 	return array
 
 print insertion_sort([3,4,1,0])
+
+
+
+
+
+
+
